@@ -1,1 +1,2 @@
-![snake animation](https://github.com/proferssor1995/proferssor1995/blob/output/github-contribution-grid-snake.svg)
+
+(https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)https://github-readme-stats.vercel.app/api?username={proferssor1995}&theme=blue-green
