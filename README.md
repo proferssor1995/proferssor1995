@@ -45,3 +45,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env '          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}' 12q3we45432''  123421''  1q234567890-
+
+        ![snake gif](https://github.com/proferssor1995/proferssor1995/blob/output/github-contribution-grid-snake.svg)
