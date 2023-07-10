@@ -4,11 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proferssor1995&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
-<div align="center">
 
-  ![Snake animation](https://github.com/proferssor1995/proferssor1995/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
 
  <div align="center" valign="top"><br>
   <img align="center" alt="Fer-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
