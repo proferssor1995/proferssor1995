@@ -1,3 +1,7 @@
+
+<h1 align="center">
+Oi, sou Fernando, profissional de Educação Física que treina Front-End.
+</h1>
 <div align="center">
   <a href="https://github.com/proferssor1995">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=proferssor1995&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -20,4 +24,5 @@
 ##
 <div align="center">
   <a href="https://www.linkedin.com/in/fernando-massayuki-nakauti-39228919b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="mailto:proferssor.fernando21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
