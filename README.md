@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Oi, sou Fernando, profissional de Educação Física que treina Front-End.
+Hi, I'm Fernando, Teacher who studies programming .
 </h1>
 <div align="center">
   <a href="https://github.com/proferssor1995">
